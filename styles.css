@@ -8,9 +8,8 @@
 body {
   width: 100vw;
   height: 100vh;
-  background: lightblue
-    url('https://i.postimg.cc/D09jSxfj/pexels-tyler-lastovich-1616516.jpg')
-    no-repeat fixed center;
+  background-image: url('https://i.postimg.cc/D09jSxfj/pexels-tyler-lastovich-1616516.jpg');
+  background-size: cover;
   overflow: hidden;
 }
 
