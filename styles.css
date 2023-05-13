@@ -41,6 +41,15 @@ textarea {
 button {
   cursor: pointer;
   font-weight: 500;
+  background-color: rgb(127, 255, 195);
+}
+
+button:hover {
+  background-color: rgb(69, 240, 183);
+}
+
+button:active {
+  background-color: rgb(149, 241, 210);
 }
 
 i {
